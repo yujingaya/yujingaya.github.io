@@ -2,7 +2,7 @@
 layout: post
 title:  "블루보틀 뉴올리언스"
 date:   2019-07-12 20:15:00 +0900
-categories: 미식
+categories: gourmet
 ---
 
 <style type="text/css" media="screen">
