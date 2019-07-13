@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "블루보틀 뉴올리언스"
+image: "/assets/images/2019-07-12-blue-bottle-shinagawa.jpeg"
 date:   2019-07-12 20:15:00 +0900
 categories: gourmet
 ---
 
 <style type="text/css" media="screen">
   img[alt="뉴올리언스"] {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 </style>
 
