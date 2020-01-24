@@ -1,5 +1,6 @@
 # SEO settings
-title: yujinlog
+title: 유진로그
+author: YujinGaya
 description: >-
   개발, 디자인, 미식
 url: "https://blog.yujingaya.com"
@@ -30,3 +31,5 @@ plugins:
   - jekyll-feed
 
 google_analytics: UA-66130804-3
+
+host: 0.0.0.0

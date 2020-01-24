@@ -96,6 +96,10 @@
  h1, h2, h3, h4, h5, h6 {
    font-weight: $base-font-weight;
  }
+
+ h2, h3, h4 {
+   margin-top: 1.5rem;
+ }
  
  
  
@@ -150,7 +154,7 @@
  code {
    @include relative-font-size(0.9375);
    color: #4d4d4c;
-   background-color: #fff;
+   background-color: #f6f8fa;
  }
  
  code {
@@ -163,14 +167,14 @@
  }
  
  pre {
-   padding: 20px 0;
+   padding: 1.25rem 1.5rem;
    overflow-x: auto;
  
    > code {
      border: 0;
      padding-right: 0;
      padding-left: 0;
-     background-color: #fff;
+     background-color: #f6f8fa;
    }
  }
  
