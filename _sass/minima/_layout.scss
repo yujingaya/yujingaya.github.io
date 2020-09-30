@@ -4,20 +4,12 @@
  .site-header {
     min-height: $spacing-unit * 1.865;
     width: 100%;
-    // Positioning context for the mobile navigation icon
-    position: fixed;
-
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
   }
   
   .site-title {
-    @include relative-font-size(1.625);
+    font-size: 20px;
     font-weight: 300;
     line-height: $base-line-height * $base-font-size * 2.25;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
   
     &,
     &:visited {
@@ -116,8 +108,8 @@
    * Page content
    */
   .page-content {
-    margin: $spacing-unit * 1.865 0;
-    padding: $spacing-unit 0;
+    margin: 0;
+    padding: 0;
     flex: 1;
   }
   
@@ -158,13 +150,10 @@
   }
   
   .post-title {
-    @include relative-font-size(2.625);
+    font-size: 24px;
+    margin: 1.5rem 0 0.25rem;
     letter-spacing: -1px;
     line-height: 1;
-  
-    @include media-query($on-laptop) {
-      @include relative-font-size(2.25);
-    }
   }
   
   .post-content {

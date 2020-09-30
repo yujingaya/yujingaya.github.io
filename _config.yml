@@ -1,13 +1,12 @@
 # SEO settings
-title: 유진로그
+title: 망상비축기지
 author: YujinGaya
 description: >-
-  개발, 디자인, 미식
+  만약의 경우를 대비해 망상을 모아둡니다.
 url: "https://blog.yujingaya.com"
 # author: 
 twitter:
   username: yujinlog
-# logo: /assets/logo.png
 lang: ko_KR
 
 minima:
